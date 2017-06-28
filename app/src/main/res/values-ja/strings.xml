@@ -46,7 +46,7 @@
     <string name="uninstall">アンインストール</string>
     <string name="reboot_countdown">%1$dで再起動します</string>
     <string name="uninstall_magisk_title">Magiskをアンインストールします</string>
-    <string name="uninstall_magisk_msg">これにより、すべてのモジュールとMagiskSUを削除します。暗号化されていないデータが暗号化される可能性があります。\ n続行しますか？</string>
+    <string name="uninstall_magisk_msg">これにより、すべてのモジュールとMagiskSUを削除します。暗号化されていないデータが暗号化される可能性があります。\n続行しますか？</string>
     <string name="version_none">(なし)</string>
 
     <!--Module Fragment-->
@@ -78,7 +78,7 @@
     <string name="app_developers">主な開発者</string>
     <string name="app_developers_"><![CDATA[このアプリは<a href="https://github.com/topjohnwu">topjohnwu</a>と<a href="https://github.com/d8ahazard">Digitalhigh</a>と<a href="https://github.com/dvdandroid">Dvdandroid</a>によって作られました。]]></string>
     <string name="app_changelog">アプリの更新履歴</string>
-    <string name="translators">神楽坂桜（Sakura_Sa233#Twitter）/ hota (@lindwurm)</string>
+    <string name="translators">神楽坂桜 (@Sakura_Sa233), hota (@lindwurm)</string>
     <string name="app_version">アプリのバージョン</string>
     <string name="app_source_code">ソースコード</string>
     <string name="donation">寄付</string>
@@ -111,7 +111,7 @@
     <string name="no_magisk_msg"> Magiskをダウンロードしてインストールしますか？</string>
     <string name="downloading_toast">%1$s をダウンロード中</string>
     <string name="magisk_update_title">新しいMagiskの更新が利用可能です！</string>
-    <string name="settings_reboot_toast">再起動して設定を適用する</string>
+    <string name="settings_reboot_toast">設定の適用には再起動が必要です</string>
     <string name="release_notes">リリースノート</string>
     <string name="repo_cache_cleared">リポジトリキャッシュを消去しました</string>
     <string name="safetyNet_hide_notice">このアプリはSafetyNetを使用しています。\n既定ではMagiskHideで既に処理されています</string>
@@ -123,6 +123,8 @@
     <string name="internal_storage">zipは:\n[Internal Storage]%1$sに保存されます</string>
     <string name="zip_process_title">処理</string>
     <string name="manual_boot_image">ブートイメージを手動で選択してください！</string>
+    <string name="manager_update_title">新しいMagisk Managerの更新が利用可能です！</string>
+    <string name="manager_download_install">タップしてダウンロードとインストール</string>
 
     <!--Settings Activity -->
     <string name="settings_general_category">一般</string>
